@@ -1,0 +1,1302 @@
+#Ezdakova
+User-agent: *
+Disallow: /Ezdakova/assets/bower_components
+Disallow: /Ezdakova/assets/css
+Disallow: /Ezdakova/assets/plugins
+Disallow: /Ezdakova/assets/youplay
+Sitemap: https://seo.belstu.by/Ezdakova/sitemap.xml
+
+#Baranovski
+User-agent: *
+Disallow: /Baranovski/assets/css
+Disallow: /Baranovski/assets/js
+Disallow: /Baranovski/assets/fonts
+Sitemap: https://seo.belstu.by/Baranovski/sitemap.xml
+
+#Labor
+User-agent: *
+Disallow: /Labor/styles
+Disallow: /Labor/js
+Disallow: /Labor/fonts
+Disallow: /Labor/images
+Disallow: /Labor/img
+Disallow: /Labor/plugins
+Sitemap: https://seo.belstu.by/Labor/sitemap.xml
+
+#Bezludskaya
+User-agent: *
+Disallow: /Bezludskaya/scss/
+Disallow: /Bezludskaya/scripts/
+Disallow: /Bezludskaya/css/
+Sitemap: https://seo.belstu.by/Bezludskaya/sitemap.xml
+
+#Voznenko
+User-agent: *
+Disallow: /Voznenko/scss/
+Disallow: /Voznenko/js/
+Disallow: /Voznenko/css/
+Disallow: /Voznenko/img/
+Disallow: /Voznenko/fonts/
+Sitemap: https://seo.belstu.by/Voznenko/sitemap.xml
+
+#Dubrovskaya
+User-agent: *
+Disallow: /Dubrovskaya/css/
+Disallow: /Dubrovskaya/js/
+Disallow: /Dubrovskaya/fonts/
+Disallow: /Dubrovskaya/webfonts/
+Sitemap: https://seo.belstu.by/Dubrovskaya/sitemap.xml
+
+#Shkuratava
+User-agent: *
+Disallow: /Shkuratava/assets/css
+Disallow: /Shkuratava/assets/js
+Disallow: /Shkuratava/assets/fonts
+Sitemap: https://seo.belstu.by/Shkuratava/sitemap.xml
+
+#Kalenik
+User-Agent: *
+Disallow: /Kalenik/css/
+Disallow: /Kalenik/js/
+Disallow: /Kalenik/fonts/
+Sitemap: https://seo.belstu.by/Kalenik/sitemap.xml
+
+#Kreidich
+User-Agent: *
+Disallow: /Kreidich/css/
+Disallow: /Kreidich/cssMedia/
+Disallow: /Kreidich/js/
+Disallow: /Kreidich/fonts/
+Sitemap: https://seo.belstu.by/Kreidich/sitemap.xml
+
+#Makrytski
+User-Agent: *
+Disallow: /Makrytski/css/
+Disallow: /Makrytski/scss/
+Disallow: /Makrytski/js/
+Disallow: /Makrytski/fonts/
+Sitemap: https://seo.belstu.by/Makrytski/sitemap.xml
+
+#Kedich
+User-Agent: *
+Disallow: /Kedich/assets/css/
+Disallow: /Kedich/assets/js/
+Disallow: /Kedich/assets/fonts/
+Sitemap: https://seo.belstu.by/Kedich/sitemap.xml
+
+#Lazareva
+User-Agent: *
+Disallow: /Lazareva/css/
+Disallow: /Lazareva/js/
+Disallow: /Lazareva/fonts/
+Sitemap: https://seo.belstu.by/Lazareva/sitemap.xml
+
+#Klyashtornaya
+User-Agent: *
+Disallow: /Klyashtornaya/css/
+Disallow: /Klyashtornaya/fonts/
+Disallow: /Klyashtornaya/js/
+Sitemap: https://seo.belstu.by/Klyashtornaya/sitemap.xml
+
+#Kostina
+User-Agent: *
+Disallow: /Kostina/css/
+Disallow: /Kostina/js/
+Sitemap: https://seo.belstu.by/Kostina/sitemap.xml
+
+#Basalay
+User-Agent: *
+Disallow: /Basalay/css/
+Disallow: /Basalay/js/
+Sitemap: https://seo.belstu.by/Basalay/sitemap.xml
+
+#Koss
+User-Agent: *
+Disallow: /Koss/css/
+Disallow: /Koss/js/
+Sitemap: https://seo.belstu.by/Koss/sitemap.xml
+
+#Krishtopchik
+User-Agent: *
+Disallow: /Krishtopchik/css/
+Disallow: /Krishtopchik/js/
+Sitemap: https://seo.belstu.by/Krishtopchik/sitemap.xml
+
+#Voitsekhovich
+User-Agent: *
+Disallow: /Voitsekhovich/nicepage.css
+Disallow: /Voitsekhovich/       .css
+Disallow: /Voitsekhovich/Post-Template.css
+Disallow: /Voitsekhovich/nicepage.js
+Disallow: /Voitsekhovich/intlTelInput/
+Sitemap: https://seo.belstu.by/Voitsekhovich/sitemap.xml
+
+#Pomoz
+Disallow: /Pomoz/assets/
+Sitemap: https://seo.belstu.by/Pomoz/sitemap.xml
+
+#Dobriyan
+User-Agent: *
+Disallow: /Dobriyan/assets/
+Disallow: /Dobriyan/js/
+Disallow: /Dobriyan/css/
+Disallow: /Dobriyan/404.html
+Sitemap: https://seo.belstu.by/Dobriyan/sitemap.xml
+
+#Voroshen
+Disallow: /Voroshen/css/
+Disallow: /Voroshen/js/
+Sitemap: https://seo.belstu.by/Voroshen/sitemap.xml
+
+#Potapchik
+User-Agent: *
+Disallow: /Potapchik/css/
+Disallow: /Potapchik/js/
+Disallow: /Potapchik/vendor/
+Sitemap: https://seo.belstu.by/Potapchik/sitemap.xml
+
+#Golovkina
+Disallow: /Golovkina/css/
+Disallow: /Golovkina/js/
+Sitemap: https://seo.belstu.by/Golovkina/sitemap.xml
+
+#Sobolevskaya
+Disallow: /Sobolevskaya/css/
+Disallow: /Sobolevskaya/js/
+Sitemap: https://seo.belstu.by/Sobolevskaya/sitemap.xml
+
+#Nichiporchik
+User-Agent: *
+#Disallow: /Nichiporchik/css/
+Disallow: /Nichiporchik/404.html
+Sitemap: https://seo.belstu.by/Nichiporchik/sitemap.xml
+
+#Isakov
+User-Agent: *
+Disallow: /Isakov/css/
+Disallow: /Isakov/js/
+Disallow: /Isakov/fonts/
+Disallow: /Isakov/images/
+Sitemap: https://seo.belstu.by/Isakov/sitemap.xml
+
+#Kostyukovich
+User-Agent: *
+Disallow: /Kostyukovich/css/
+Disallow: /Kostyukovich/js/
+Sitemap: https://seo.belstu.by/Kostyukovich/sitemap.xml
+
+#Bryksa
+User-Agent: *
+
+Disallow: /Bryksa/images/
+Disallow: /Bryksa/css/
+Sitemap: https://seo.belstu.by/Bryksa/sitemap.xml
+
+#Sinkevich
+User-Agent: *
+Disallow: /Sinkevich/.sass-chache/
+Disallow: /Sinkevich/css/
+Disallow: /Sinkevich/fonts/
+Disallow: /Sinkevich/img/
+Disallow: /Sinkevich/js/
+Disallow: /Sinkevich/scss/
+Disallow: /Sinkevich/style.css
+Disallow: /Sinkevich/style.css.map
+Sitemap: https://seo.belstu.by/Sinkevich/sitemap.xml
+
+#Poleshova
+User-Agent: *
+Disallow: /Poleshova/css/
+Disallow: /Poleshova/fonts/
+Disallow: /Poleshova/js/
+Disallow: /Poleshova/ChiefSlider/
+Sitemap: https://seo.belstu.by/Poleshova/sitemap.xml
+
+#Medvedeva
+User-Agent: *
+Disallow: /Medvedeva/css/
+Disallow: /Medvedeva/js/
+Disallow: /Medvedeva/vendors/
+Sitemap: https://seo.belstu.by/Medvedeva/sitemap.xml
+
+#Baranov
+User-Agent: *
+Disallow: /Baranov/css/
+Disallow: /Baranov/scss/
+Disallow: /Baranov/scripts/
+Disallow: /Baranov/img/
+Sitemap: https://seo.belstu.by/Baranov/sitemap.xml
+
+#Butymova
+User-Agent: *
+Disallow: /Butymova/css/
+Disallow: /Butymova/js/
+Disallow: /Butymova/assets/
+Sitemap: https://seo.belstu.by/Butymova/sitemap.xml
+
+#Drozhzha
+User-Agent: *
+Disallow: /Drozhzha/assets/
+Sitemap:https://seo.belstu.by/Drozhzha/sitemap.xml
+
+#Gerasimchik
+User-Agent: *
+Disallow: /Gerasimchik/css/
+Disallow: /Gerasimchik/js/
+Disallow: /Gerasimchik/fonts/
+Disallow: /Gerasimchik/img/
+Disallow: /Gerasimchik/sass/
+Disallow: /Gerasimchik/Sourse/
+Sitemap: https://seo.belstu.by/Gerasimchik/sitemap.xml
+
+#Starkova
+User-Agent: *
+Disallow: /Starkova/css/
+Disallow: /Starkova/js/
+Sitemap: https://seo.belstu.by/Starkova/sitemap.xml
+
+#Kravchenko
+User-Agent: *
+Disallow: /Kravchenko/css/
+Disallow: /Kravchenko/fonts/
+Disallow: /Kravchenko/js/
+Sitemap: https://seo.belstu.by/Kravchenko/sitemap.xml
+
+#Kryvaltsevich
+User-Agent: *
+Disallow: /Kryvaltsevich/css/
+Disallow: /Kryvaltsevich/fonts/
+Disallow: /Kryvaltsevich/images/
+Disallow: /Kryvaltsevich/js/
+Disallow: /Kryvaltsevich/sass/
+Disallow: /Kryvaltsevich/404.html
+Sitemap: https://seo.belstu.by/Kryvaltsevich/sitemap.xml
+
+
+#Mamchits
+User-Agent: *
+Disallow: /Mamchits/css/
+Disallow: /Mamchits/fonts/
+Disallow: /Mamchits/js/
+Disallow: /Mamchits/scss
+Sitemap: https://seo.belstu.by/Mamchits/sitemap.xml
+
+#Kosilo
+User-Agent: *
+Disallow: /Kosilo/css/
+Disallow: /Kosilo/fonts/
+Disallow: /Kosilo/js/
+Disallow: /Kosilo/scss/
+Sitemap: https://seo.belstu.by/Kosilo/sitemap.xml
+
+#Sushkova
+User-Agent: *
+Disallow: /Sushkova/img/
+Disallow: /Sushkova/fonts/
+Disallow: /Sushkova/css/
+Sitemap: https://seo.belstu.by/Sushkova/sitemap.xml
+
+#Khoruzhaya
+User-Agent: *
+Disallow: /Khoruzhaya/css/
+Disallow: /Khoruzhaya/js/
+Disallow: /Khoruzhaya/assets/
+Sitemap: https://seo.belstu.by/Khoruzhaya/sitemap.xml
+
+#Radkevich
+User-agent: *
+Disallow: /Radkevich/assets/
+Disallow: /Radkevich/assets/css
+Disallow: /Radkevich/assets/img
+Disallow: /Radkevich/assets/img/demo
+Disallow: /Radkevich/assets/scss
+Disallow: /Radkevich/assets/js
+Sitemap: https://seo.belstu.by/Radkevich/sitemap.xml
+
+#Havrukova
+User-Agent: *
+Disallow: /Havrukova/styles/
+Disallow: /Havrukova/scripts/
+Disallow: /Havrukova/images/
+Sitemap: https://seo.belstu.by/Havrukova/sitemap.xml
+
+#Kubarko
+User-Agent: *
+Disallow: /Kubarko/src/css/
+Disallow: /Kubarko/src/js/
+Sitemap: https://seo.belstu.by/Kubarko/sitemap.xml
+
+
+#Baranovskaya
+User-Agent: *
+
+Disallow: /Baranovskaya/font/
+Disallow: /Baranovskaya/img/
+Disallow: /Baranovskaya/style/
+Sitemap: https://seo.belstu.by/Baranovskaya/sitemap.xml
+
+#kovtikA
+User-Agent: *
+
+Disallow: /kovtikA/css/
+Disallow: /kovtikA/images/
+Disallow: /kovtikA/fonts/
+Disallow: /kovtikA/js/
+Disallow: /kovtikA/sass/
+Sitemap: https://seo.belstu.by/kovtikA/sitemap.xml
+
+#Lysova
+User-Agent: *
+
+Disallow: /Lysova/css/
+Disallow: /Lysova/img/
+Disallow: /Lysova/scripts/
+Sitemap: https://seo.belstu.by/Lysova/sitemap.xml
+
+#Kurochkina
+User-Agent: *
+
+Disallow: /Kurochkina/css/
+Disallow: /Kurochkina/font-awesome/
+Disallow: /Kurochkina/js/
+Disallow: /Kurochkina/images/
+Sitemap: https://seo.belstu.by/Kurochkina/sitemap.xml
+
+#Chekan
+User-Agent: *
+Disallow: /Chekan/fonts/
+Disallow: /Chekan/js/
+Disallow: /Chekan/scripts/
+Sitemap: https://seo.belstu.by/Chekan/sitemap.xml
+
+#GurinovichDiana
+User-Agent: *
+Disallow: /GurinovichDiana/css/
+Sitemap: https://seo.belstu.by/GurinovichDiana/sitemap.xml
+
+#Shereshik
+User-Agent: *
+
+Disallow: /Shereshik/css/
+Disallow: /Shereshik/fonts/
+Disallow: /Shereshik/js/
+Disallow: /Shereshik/img/
+Disallow: /Shereshik/scss/
+Sitemap: https://seo.belstu.by/Shereshik/sitemap.xml
+
+#Sinyak
+User-Agent: *
+Disallow: /Sinyak/css/
+Disallow: /Sinyak/img/
+Disallow: /Sinyak/js/
+Disallow: /Sinyak/font-awesome-4.1.0/
+Sitemap: https://seo.belstu.by/Sinyak/sitemap.xml
+
+#Rykhlionak
+User-Agent: *
+Disallow: /Rykhlionak/css/
+Disallow: /Rykhlionak/img/
+Disallow: /Rykhlionak/js/
+Sitemap: https://seo.belstu.by/Rykhlionak/sitemap.xml
+
+#Sakhnovskaya
+User-Agent: *
+Disallow: /Sakhnovskaya/assets/css/
+Disallow: /Sakhnovskaya/assets/js/
+Disallow: /Sakhnovskaya/assets/webfonts/
+Sitemap: https://seo.belstu.by/Sakhnovskaya/sitemap.xml
+
+#Stezhko
+User-Agent: *
+
+Disallow: /Stezhko/font-awesome-4.7.0/
+Disallow: /Stezhko/css/
+Sitemap: https://seo.belstu.by/Stezhko/sitemap.xml
+
+#Bobolia
+User-Agent: *
+
+Disallow: /Bobolia/css/
+Disallow: /Bobolia/fonts/
+Disallow: /Bobolia/js/
+Sitemap: https://seo.belstu.by/Bobolia/sitemap.xml
+
+#Kuskova
+User-Agent: *
+
+Disallow: /Kuskova/css/
+Disallow: /Kuskova/sass/
+Disallow: /Kuskova/fonts/
+Disallow: /Kuskova/js/
+Sitemap: https://seo.belstu.by/Kuskova/sitemap.xml
+
+#Kulakova
+User-Agent: *
+
+Disallow: /Kulakova/css/
+Disallow: /Kulakova/scss/
+Disallow: /Kulakova/fonts/
+Disallow: /Kulakova/js/
+Sitemap: https://seo.belstu.by/Kulakova/sitemap.xml
+
+#BabichOlga
+User-agent: *
+Disallow: /BabichOlga/css/
+Disallow: /BabichOlga/fonts/
+Disallow: /BabichOlga/js/
+Disallow: /BabichOlga/scss/
+Sitemap: https://seo.belstu.by/BabichOlga/sitemap.xml
+
+#Yurkevich
+User-agent: *
+Disallow: /Yurkevich/css/
+Disallow: /Yurkevich/js/
+Disallow: /Yurkevich/fonts/
+Disallow: /Yurkevich/plugins/
+Sitemap: https://seo.belstu.by/Yurkevich/sitemap.xml
+
+#Mikhnovetz
+User-Agent: *
+Disallow: /Mikhnovetz/css/
+Disallow: /Mikhnovetz/fonts/
+Disallow: /Mikhnovetz/js/
+Disallow: /Mikhnovetz/scss/
+Sitemap: https://seo.belstu.by/Mikhnovetz/sitemap.xml
+
+#Kireyenko
+User-Agent: *
+Disallow: /Kireyenko/css/
+Disallow: /Kireyenko/js/
+Disallow: /Kireyenko/fonts/
+Sitemap: https://seo.belstu.by/Kireyenko/sitemap.xml
+
+#Sheleh
+User-Agent: *
+Disallow: /Sheleh/css/
+Disallow: /Sheleh/fonts/
+Disallow: /Sheleh/js/
+Sitemap: https://seo.belstu.by/Sheleh/sitemap.xml
+
+User-Agent: *
+#Khramova
+Disallow: /Khramova/css
+Disallow: /Khramova/img
+Disallow: /Khramova/js
+Disallow: /Khramova/icon-fonts
+Sitemap: https://seo.belstu.by/Khramova/sitemap.xml
+
+User-Agent: *
+#Marchuk
+Disallow: /Marchuk/css
+Disallow: /Marchuk/images
+Disallow: /Marchuk/js
+Disallow: /Marchuk/font-awesome
+Disallow: /Marchuk/owl-carousel
+Sitemap: https://seo.belstu.by/Marchuk/sitemap.xml
+
+#Shipnevskaya
+Disallow: /Shipnevskaya/assets/
+Sitemap: https://seo.belstu.by/Shipnevskaya/sitemap.xml
+
+#Kuznetsova
+Disallow: /Kuznetsova/css
+Disallow: /Kuznetsova/js
+Disallow: /Kuznetsova/webfonts
+Sitemap: https://seo.belstu.by/Kuznetsova/sitemap.xml
+
+#Vaishnis
+Disallow: /Vaishnis/style.css
+Disallow: /Vaishnis/normal.css
+Disallow: /Vaishnis/script.js
+Disallow: /Vaishnis/jquery.js
+Disallow: /Vaishnis/fonts
+Sitemap: https://seo.belstu.by/Vaishnis/sitemap.xml
+
+#Yegorov
+Disallow: /yegorov/images
+Disallow: /yegorov/css
+Disallow: /yegorov/js
+Disallow: /yegorov/sass
+Sitemap: https://seo.belstu.by/yegorov/sitemap.xml
+
+#Ilinkova
+Disallow: /Ilinkova/font-awesome/
+Disallow: /Ilinkova/js/
+Disallow: /Ilinkova/owlcarousel/
+Sitemap: https://seo.belstu.by/Ilinkova/sitemap.xml
+
+#Trishkina
+Disallow: /Trishkina/css/
+Disallow: /Trishkina/js/
+Disallow: /Trishkina/fonts/
+Sitemap: https://seo.belstu.by/Trishkina/sitemap.xml
+
+#Akulenkova
+Disallow: /Akulenkova/css/
+Disallow: /Akulenkova/js/
+Disallow: /Akulenkova/assets/
+Sitemap: https://seo.belstu.by/Akulenkova/sitemap.xml
+
+#Shestak
+Disallow: /shestak/About.css/
+Disallow: /shestak/Griffindor.css/
+Disallow: /shestak/Hufflepuf.css/
+Disallow: /shestak/index.css/
+Disallow: /shestak/nicepage.css/
+Disallow: /shestak/Post-Template.css/
+Disallow: /shestak/Ravenclaw.ss/
+Disallow: /shestak/Slitherin.css/
+Disallow: /shestak/nicepage.js/
+Disallow: /shestak/jquery.js/
+Sitemap: https://seo.belstu.by/shestak/sitemap.xml
+
+
+#Solovjeva
+Disallow: /solovjeva/css/
+Disallow: /solovjeva/fonts/
+Disallow: /solovjeva/js/
+Sitemap: https://seo.belstu.by/solovjeva/sitemap.xml
+
+
+#Trubnikoff
+Disallow: /Trubnikoff/film-news.html 
+Disallow: /Trubnikoff/about-trutube.html 
+Sitemap: https://seo.belstu.by/Trubnikoff/sitemap.xml
+
+
+#Zhukova
+Sitemap:https://seo.belstu.by/Zhukova/sitemap.xml
+
+#Ignatkova
+Disallow: /Ignatkova/css/
+Disallow: /Ignatkova/fonts/
+Disallow: /Ignatkova/js/
+Sitemap: https://seo.belstu.by/Ignatkova/sitemapIndex.xml
+
+#Gundareva
+Disallow: /Gundareva/css/
+Disallow: /Gundareva/sass/
+Disallow: /Gundareva/js/
+Disallow: /Gundareva/vendor/
+Sitemap: https://seo.belstu.by/Gundareva/sitemap.xml
+
+#Chaiko
+Disallow: /Chaiko/js/
+Disallow: /Chaiko/demo/
+Disallow: /Chaiko/md/
+https://seo.belstu.by/Chaiko/sitemap.xml
+
+#Lugovskaya
+Disallow: /Lugovskaya/assets/css/
+Disallow: /Lugovskaya/assets/js/
+Disallow: /Lugovskaya/assets/fonts/
+Sitemap: https://seo.belstu.by/Lugovskaya/sitemap.xml
+
+#Belavskaya
+Disallow: /Belavskaya/css/
+Disallow: /Belavskaya/inc/
+Disallow: /Belavskaya/js/
+Sitemap: https://seo.belstu.by/Belavskaya/sitemap.xml
+
+#Talapina
+#Disallow: /Talapina/styles
+#Sitemap: https://seo.belstu.by/Talapina/sitemap.xml
+
+#Priemko
+Disallow: /Priemko/css/
+Disallow: /Priemko/icon-fonts/
+Sitemap: https://seo.belstu.by/Priemko/sitemap.xml
+
+#Popov
+Disallow: /Popov/css
+Disallow: /Popov/fonts
+Disallow: /Popov/js
+Disallow: /Popov/404.html
+Sitemap: https://seo.belstu.by/Popov/sitemap.xml
+
+#Soloshuk
+Sitemap: https://seo.belstu.by/Soloshuk/sitemap.xml
+
+#Lisikov
+Sitemap: https://seo.belstu.by/Lisikov/sitemap.xml
+
+#Makarevich
+Disallow: /Makarevich/404.html
+Disallow: /Makarevich/css/
+Disallow: /Makarevich/script
+Sitemap: https://seo.belstu.by/Makarevich/sitemap.xml
+
+#Sveklo
+Disallow: /Sveklo/css/
+Disallow: /Sveklo/js/
+Disallow: /Sveklo/fonts/
+Disallow: /Sveklo/scss/
+Sitemap: https://seo.belstu.by/Sveklo/sitemap.xml
+
+#Khorava
+
+#Shuliak
+Disallow: /Shuliak/3d/
+Disallow: /Shuliak/scss/
+Sitemap: https://seo.belstu.by/Shuliak/sitemap.xml
+
+#Derkach
+Sitemap: https://seo.belstu.by/Derkach/sitemap.xml
+
+Disallow: /Borisevich/ #                                
+
+#Abrazhevich      
+#Philipenko
+Disallow: Philipenko/sass/
+Disallow: Philipenko/jq/
+
+#berdnik   
+#bekish     
+#Mihalkovich
+#Yakimuk      
+#Feducovich
+# Tkachenka
+Disallow: /tkachenka/sass
+
+#Novikow
+Disallow: /Novikow/media/
+
+#Ziabko
+Disallow: /Ziabko/.idea/
+
+#Kovalevskaya
+#Stscherbakowa
+#Kuleshova
+#Solovjova
+#Kamutovski
+Disallow: /Kamutovski/site-map.html
+Disallow: /Kamutovski/not-found.html
+
+#Leonova
+#Tonkovich
+Disallow: /Tonkovich/assets/
+
+#Buraya
+#Khvorost
+#Losich
+Disallow: /Losich/venor/
+
+#Matsokina
+#Matsokina
+#kuzmina
+
+Disallow: /kuzmina/lib
+Disallow: /kuzmina/contactform
+
+#Melnikova
+#Dolgodilina
+
+Disallow: /Dolgodilina/slick/
+Disallow: /Dolgodilina/list/layout.html
+Disallow: /Dolgodilina/layput.php
+Disallow: /Dolgodilina/html/
+Disallow: /Dolgodilina/info.html
+Disallow: /Dolgodilina/index.html
+Disallow: /Dolgodilina/menu.html
+Disallow: /Dolgodilina/movielist.html
+Disallow: /Dolgodilina/deviltomb.html
+Disallow: /Dolgodilina/filmography.html
+Disallow: /Dolgodilina/list/
+
+#Lyskova
+Disallow: /Lyskova/css-f/
+
+#Sugako
+#molotok
+#Korobeinik
+
+Disallow: /Korobeinik/sass/
+
+#Dyakova
+#Jumayeva
+#Kotik
+
+Disallow: /Kotik/less/
+Disallow: /Kotik/img/blik.svg
+Disallow: /Kotik/img/blik2.svg
+Disallow: /Kotik/img/blik3.svg
+Disallow: /Kotik/img/down.svg
+
+#Chobot
+#Baydenok
+#Kovtik
+Disallow: /Kovtik/wp-admin
+Disallow: /Kovtik/wp-includes
+Disallow: /Kovtik/wp-content/languages/
+Disallow: /Kovtik/wp-content/plugins/
+Disallow: /Kovtik/wp-content/updraft/
+Disallow: /Kovtik/wp-content/upgrade/
+Disallow: /Kovtik/wp-content/upload/
+Disallow: /Kovtik/card/
+
+#Zhukov
+#Gusakova
+#Samosyuk
+
+Disallow: /samosyuk/php/
+
+#Bril
+
+Disallow: /Bril/php/
+
+#Bril
+
+
+#Bugaenko
+
+
+#Mydrak
+
+
+
+#Karneeva
+
+Disallow: /Karneeva/scss/
+
+#Birulia
+
+
+#Ahremchik
+
+
+#Romashko
+
+
+#Karpach
+Allow: /Karpach/fonts/
+
+#akarpach
+Disallow: /akarpach/node_modules/
+Disallow: /akarpach/scripts/
+Disallow: /akarpach/styles/
+
+#Migno
+
+#Brantsevich
+
+
+#Krasovskaya_new
+
+
+#Nikolaychuk
+
+
+#krushynki
+
+
+
+#Roshchupkina
+
+#evgen_shabanov
+
+
+#Sylik
+
+
+#Jagovdik
+
+
+#Kantarovich
+
+
+#panasik
+
+#Mikhailova
+
+
+#Kharlanovich
+
+
+#Saveleva
+
+
+#RATAIKO
+
+
+#Khamutovskaya
+#Disallow: /Khamutovskaya/assets/
+
+#Karachun
+
+
+#Starovoitov
+
+
+#Shabanov
+
+
+
+
+#grivitsky
+Disallow: /grivitsky/BulkApp-doc
+Disallow: /grivitsky/vendors
+
+#Golina
+
+#Kozlovskaya
+
+#Radchenko
+
+#Shlyaga
+
+
+#Tozik
+
+#Brodovska
+
+#Brodko
+
+#Sukharevich
+
+#Burtyl
+
+#Kondrashova
+
+#leonovaS
+
+#Shibeko
+
+#Reginevich
+
+#Kaminskaya
+
+#Likhtar
+
+#Smirnov
+
+#Shaplyko
+
+#Gorodovich
+
+#Kabanova
+
+#Krupenko
+
+#Korotkaya
+
+#Atyasheva
+
+
+#Sava
+
+#bakunovich
+
+#Gruzd
+
+#Harbuz
+
+#Trambachew
+
+#Popenya
+
+#Marchenko
+
+#Yukhnovets
+
+#Levchenko
+
+#Korotysh
+Disallow:
+
+#Kordeluk
+Disallow:
+
+#Ivanova
+Disallow:
+
+#Stasevich
+Disallow: /Stasevich/css/
+Disallow: /Stasevich/sass/
+Disallow: /Stasevich/js/
+Disallow: /Stasevich/vendor/
+Disallow: /Stasevich/img/
+
+
+#Kozak
+Dizallow: /kozak/css
+Dizallow: /kozak/fonts
+Dizallow: /kozak/js
+Dizallow: /kozak/scss
+Sitemap: https://seo.belstu.by/kozak/sitemap.xml
+
+
+#Zhadenova
+
+#Zavadskaya
+Disallow: /Zavadskaya/ionicons/
+
+#Kutsak
+#prod.Fexy
+Disallow: /prod.Fexy$
+
+#Ramantsevich
+Disallow: /Ramantsevich/css/
+Disallow: /Ramantsevich/fonts/
+Disallow: /Ramantsevich/js/
+Disallow: /Ramantsevich/img/
+Disallow: /Ramantsevich/Source/
+
+#Strukova
+Disallow: /Strukova/img/
+Disallow: /Strukova/js/
+Disallow: /Strukova/slick/
+Disallow: /Strukova/style.css
+sitemap:https://seo.belstu.by/Strukova/sitemap.xml
+
+#Skaptsova
+Disallow: /Skaptsova/img/
+Disallow: /Skaptsova/font/
+Disallow: /Skaptsova/styles/
+sitemap:https://seo.belstu.by/Skaptsova/sitemap.xml
+
+
+#batura
+Disallow: /batura/img/
+Disallow: /batura/font/
+Disallow: /batura/css/
+Disallow: /batura/js/
+Disallow: /batura/Source/
+sitemap:https://seo.belstu.by/batura/sitemap.xml
+
+#Fesko
+Disallow: /Fesko/assets/css/
+Disallow: /Fesko/assets/fonts/
+Disallow: /Fesko/assets/js/
+Disallow: /Fesko/assets/img/blog/
+Disallow: /Fesko/assets/img/gallery/
+Disallow: /Fesko/assets/scss/
+
+#Durko
+Disallow: /Durko/img/
+Disallow: /Durko/font/
+Disallow: /Durko/css/
+Disallow: /Durko/js/
+Sitemap: https://seo.belstu.by/Durko/sitemap.xml
+
+#Dubatovka
+Disallow: /Dubatovka/.idea
+Disallow: /Dubatovka/.vs
+Disallow: /Dubatovka/assets/js
+Disallow: /Dubatovka/assets/css
+Disallow: /Dubatovka/assets/sass
+Disallow: /Dubatovka/assets/webfonts
+Alllow: /Dubatovka/assets/css/images
+
+#Cherenkov
+Disallow: /Cherenkov/css
+Disallow: /Cherenkov/fonts
+
+#Shevchenko
+Disallow: /Shevchenko/assets/css/
+Disallow: /Shevchenko/assets/js/
+Disallow: /Shevchenko/assets/sass/
+Disallow: /Shevchenko/assets/webfonts/
+Sitemap: https://seo.belstu.by/Shevchenko/sitemap.xml
+
+#Sivchik
+Disallow: /Sivchik/js/
+Disallow: /Sivchik/data/
+Disallow: /Sivchik/styles/
+Sitemap: https://seo.belstu.by/Sivchik/sitemap.xml
+
+
+#Babich
+Disallow: /Babich/assets/
+Allow: /Babich/assets/img/
+Sitemap: https://seo.belstu.by/Babich/sitemap.xml
+
+#kobzik
+Disallow: /kobzik/fonts/
+Disallow: /kobzik/css/
+Disallow: /kobzik/scss/
+Sitemap: https://seo.belstu.by/kobzik/sitemap.xml
+
+#Matsiash
+Disallow: /matsiash/css/
+Disallow: /matsiash/fonts/
+Disallow: /matsiash/images/
+Disallow: /matsiash/js/
+Disallow: /matsiash/scss/
+Sitemap: https://seo.belstu.by/matsiash/sitemap.xml
+
+#Petchenko
+Disallow: /Petchenko/assets/
+Allow: /Petchenko/assets/img/
+Sitemap: https://seo.belstu.by/Petchenko/sitemap.xml
+
+#Kitun
+Disallow: /Kitun/css/
+Disallow: /Kitun/js/
+Disallow: /Kitun/fonts/
+Sitemap: https://seo.belstu.by/Kitun/sitemap.xml
+
+#Zelenkova
+Disallow: /Zelenkova/css/
+Disallow: /Zelenkova/js/
+Disallow: /Zelenkova/fonts/
+Disallow: /Zelenkova/img/
+Disallow: /Zelenkova/scss/
+Disallow: /Zelenkova/.sass-cache/
+Sitemap: https://seo.belstu.by/Zelenkova/sitemap.xml
+
+#Kontsevich
+Disallow: /Kontsevich/css/
+Disallow: /Kontsevich/js/
+Disallow: /Kontsevich/less/
+Disallow: /Kontsevich/.vscode/
+Sitemap: https://seo.belstu.by/Kontsevich/sitemap.xml
+
+#Malkov
+Disallow: /Malkov/styl.css
+Disallow: /Malkov/reset.css
+Disallow: /Malkov/.vs/
+Disallow: /Malkov/__MACOSX/
+Sitemap: https://seo.belstu.by/Malkov/sitemap.xml
+
+#Volchkov
+Disallow: /Volchkov/css/
+Disallow: /Volchkov/js/
+Sitemap: https://seo.belstu.by/Volchkov/sitemap.xml
+
+#Sergeev
+Disallow: /Sergeev/css/
+Disallow: /Sergeev/fonts/
+Disallow: /Sergeev/js/
+Disallow: /Sergeev/dist/
+Sitemap: https://seo.belstu.by/Sergeev/sitemap.xml
+
+#Pimenova
+Disallow: /Pimenova/css/
+Disallow: /Pimenova/fonts/
+Disallow: /Pimenova/js/
+Sitemap: https://seo.belstu.by/Pimenova/sitemap.xml
+
+#VILENSKAYA
+Disallow: /VILENSKAYA/css/
+Disallow: /VILENSKAYA/js/
+Sitemap: https://seo.belstu.by/VILENSKAYA/sitemap.xml
+
+#Gimbitskii
+Disallow: /Gimbitskii/css/
+Disallow: /Gimbitskii/js/
+Sitemap: https://seo.belstu.by/Gimbitskii/sitemap.xml
+
+#Triputsen
+Disallow: /Triputsen/fonts/
+Disallow: /Triputsen/css/
+Sitemap: https://seo.belstu.by/Triputsen/sitemap.xml
+
+#BabichT
+Disallow: /BabichT/css/
+Disallow: /BabichT/sass/
+Disallow: /BabichT/fonts/
+Disallow: /BabichT/js/
+Sitemap: https://seo.belstu.by/BabichT/sitemap.xml
+
+
+#Kostukevich
+#Disallow: /Kostukevich/assets/css/
+#Disallow: /Kostukevich/assets/fonts/
+#Disallow: /Kostukevich/assets/js/
+Sitemap: https://seo.belstu.by/Kostukevich/sitemap.xml
+
+#Chasnovskaya
+Dizallow: /Chasnovskaya/css/
+Dizallow: /Chasnovskaya/fonts/
+Dizallow: /Chasnovskaya/js/
+Sitemap: https://seo.belstu.by/Chasnovskaya/sitemap.xml
+
+#Savvatimov
+#Disallow: /Savvatimov/assets/css/
+#Disallow: /Savvatimov/assets/fonts/
+#Disallow: /Savvatimov/assets/js/
+#Disallow: /Savvatimov/assets/scss/
+Sitemap: https://seo.belstu.by/Savvatimov/sitemap.xml
+
+
+#Alehno
+#Disallow: /Alehno/style.css
+#Disallow: /Alehno/teas/css/
+#Disallow: /Alehno/teas/js/
+#Disallow: /Alehno/teas/fonts/webfonts/
+#Disallow: /Alehno/puer/css/
+#Disallow: /Alehno/puer/js/
+#Disallow: /Alehno/oolong/css/
+#Disallow: /Alehno/oolong/js/
+#Disallow: /Alehno/hojita/css/
+#Disallow: /Alehno/hojita/js/
+#Disallow: /Alehno/lapsang/css/
+#Disallow: /Alehno/lapsang/js/
+#Disallow: /Alehno/ceremony/css/
+#Disallow: /Alehno/ceremony/js/
+#Disallow: /Alehno/japan/css/
+#Disallow: /Alehno/japan/js/
+#Disallow: /Alehno/china/css/
+#Disallow: /Alehno/china/js/
+#Disallow: /Alehno/Page1/
+Sitemap: https://seo.belstu.by/Alehno/sitemap.xml
+
+#Samailovich
+Disallow: /Samailovich/css/
+Disallow: /Samailovich/sass/
+Disallow: /Samailovich/fonts/
+Disallow: /Samailovich/js/
+Sitemap: https://seo.belstu.by/Samailovich/sitemap.xml
+
+
+
+#Listopadova
+Disallow: /Listopadova/css/
+Disallow: /Listopadova/fonts/
+Disallow: /Listopadova/js/
+Sitemap: https://seo.belstu.by/Listopadova/sitemap.xml
+
+
+#Kizino
+Disallow: /Kizino/css/
+Disallow: /Kizino/fonts/
+Disallow: /Kizino/webfonts/
+Disallow: /Kizino/js/
+Disallow: /Kizino/img/banner_shape.png
+Disallow: /Kizino/img/banner_pattern.png
+Disallow: /Kizino/img/product_overlay.png
+Sitemap: https://seo.belstu.by/Kizino/sitemap.xml
+
+#Abukhova
+Disallow: /Abukhova/css/
+Disallow: /Abukhova/font-awesome/
+Disallow: /Abukhova/js/
+Disallow: /Abukhova/owl-carousel/
+Sitemap: https://seo.belstu.by/Abukhova/sitemap.xml
+
+User-agent: SemchenkovAlex/
+Disallow: /SemchenkovAlex/css/
+Disallow: /SemchenkovAlex/sass/
+Disallow: /SemchenkovAlex/js/
+Disallow: /SemchenkovAlex/vendor/
+Disallow: /SemchenkovAlex/img/
+Sitemap: https://seo.belstu.by/SemchenkovAlex/sitemap.xml
+
+
+#Linevich
+User-Agent: *
+Disallow: /Linevich/lead_horizon/css/
+Disallow: /Linevich/lead_horizon/images/
+Disallow: /Linevich/lead_horizon/img/
+Disallow: /Linevich/lead_horizon/js/
+Disallow: /Linevich/lead_horizon/release_date/
+Disallow: /Linevich/lead_horizon/scss/
+Disallow: /Linevich/lead_horizon/vendors/
+Allow: /Linevich/lead_horizon/release_date/release_date.html
+Sitemap: https://seo.belstu.by/Linevich/lead_horizon/sitemap.xml
+
+#Gumennikova
+User-Agent: *
+Disallow: /Gumennikova/css/
+Disallow: /Gumennikova/js/
+Disallow: /Gumennikova/lib/
+Disallow: /Gumennikova/scss/
+Disallow: /Gumennikova/404.html
+Sitemap: https://seo.belstu.by/Gumennikova/sitemap.xml
+
+#Samsonchik
+User-Agent: *
+Disallow: /Samsonchik/css/
+Disallow: /Samsonchik/scss/
+Disallow: /Samsonchik/js/
+Sitemap: https://seo.belstu.by/Samsonchik/sitemap.xml
+
+#Eismont
+User-Agent: *
+Disallow: /Eismont/assets/
+Sitemap: https://seo.belstu.by/Eismont/sitemap.xml
+
+#Otchik
+User-Agent: *
+Disallow: /Otchik/css/
+Disallow: /Otchik/documentation/
+Disallow: /Otchik/fonts/
+Disallow: /Otchik/js/
+Sitemap: https://seo.belstu.by/Otchik/sitemap.xml
+
+#Yarmolchik
+User-Agent: *
+Disallow: /Yarmolchik/assets/css
+Disallow: /Yarmolchik/assets/fonts
+Disallow: /Yarmolchik/assets/js
+Sitemap: https://seo.belstu.by/Yarmolchik/sitemap.xml
+
+#Tyushkevich
+Disallow: /Tyushkevich/css
+Disallow: /Tyushkevich/scss
+Disallow: /Tyushkevich/fonts
+Disallow: /Tyushkevich/js
+Disallow: /Tyushkevich/images
+Sitemap: https://seo.belstu.by/Tyushkevich/sitemap.xml
+
+Sitemap: https://seo.belstu.by/Ilinkova/sitemap.xml
+Sitemap: https://seo.belstu.by/Dubatovka/sitemap.xml
+Sitemap:https://seo.belstu.by/Levchenko/site/sitemap.xml
+Sitemap:https://seo.belstu.by/Alehno/site/sitemap.xml
+Sitemap:https://seo.belstu.by/Harbuz/sitemap.xml
+Sitemap:https://seo.belstu.by/Gruzd/sitemap.xml
+Sitemap:https://seo.belstu.by/Krupenko/sitemap.xml
+Sitemap:https://seo.belstu.by/Kabanova/sitemap.xml
+Sitemap:https://seo.belstu.by/Gorodovich/sitemap.xml
+Sitemap:https://seo.belstu.by/Smirnov/sitemap.xml
+Sitemap:https://seo.belstu.by/Shaplyko/sitemap.xml
+Sitemap:https://seo.belstu.by/BestLikhtar/sitemap.xml
+Sitemap:https://seo.belstu.by/Kaminskaya/sitemap.xml
+Sitemap:https://seo.belstu.by/Reginevich/sitemap.xml
+Sitemap:https://seo.belstu.by/Shibeko/sitemap.xml
+Sitemap: http://seo.belstu.by/leonovaS/sitemap.xml
+Sitemap: http://seo.belstu.by/Burtyl/sitemap.xml
+Sitemap: http://seo.belstu.by/Sukharevich/sitemap.xml
+Sitemap: http://seo.belstu.by/Brodko/sitemap.xml
+Sitemap: http://seo.belstu.by/Brodovska/sitemap.xml
+Sitemap: http://seo.belstu.by/Tozik/sitemap.xml
+Sitemap: http://seo.belstu.by/Shlyaga/sitemap.xml
+Sitemap: http://seo.belstu.by/Radchenko/sitemap.xml
+Sitemap: http://seo.belstu.by/Kozlovskaya/sitemap.xml
+Sitemap: http://seo.belstu.by/Golina/sitemap.xml
+Sitemap: http://seo.belstu.by/sitemap.xml
+Sitemap: http://seo.belstu.by/Korobeinik/sitemap.xml
+Sitemap: http://seo.belstu.by/Kamutovski/sitemap.xml
+Sitemap: http://seo.belstu.by/Kotik/sitemap.xml
+Sitemap: http://seo.belstu.by/Chobot/sitemap.xml
+Sitemap: https://seo.belstu.by/bril/sitemap.xml
+Sitemap: https://seo.belstu.by/bril-new/sitemap.xml
+Sitemap: https://seo.belstu.by/samosyuk/sitemap.xml
+Sitemap: http://seo.belstu.by/Kovtik/sitemap.xml
+Sitemap: https://seo.belstu.by/akarpach/sitemap.xml
+Sitemap: http://seo.belstu.by/Gusakova/sitemap.xml
+Sitemap: http://seo.belstu.by/Baydenok/sitemap.xml
+Sitemap: http://seo.belstu.by/RATAIKO/sitemap.xml
+Sitemap: http://seo.belstu.by/krushynski/sitemap.xml
+Sitemap: http://seo.belstu.by/kuzmina/sitemap.xml
+Sitemap: http://seo.belstu.by/Saveleva/sitemap.xml
+Sitemap: http://seo.belstu.by/Khamutovskaya/sitemap.xml
+Sitemap: http://seo.belstu.by/Kantarovich/sitemap.xml
+Sitemap: http://seo.belstu.by/Mikhailova/sitemap.xml
+Sitemap: http://seo.belstu.by/Kharlanovich/sitemap.xml
+Sitemap: http://seo.belstu.by/Popenya/sitemap.xml
+Sitemap: https://seo.belstu.by/Mydrak/sitemap.xml
+Sitemap: http://seo.belstu.by/Marchenko/sitemap.xml
+Sitemap:https://seo.belstu.by/Yukhnovets/sitemap.xml
+Sitemap: https://seo.belstu.by/Zhadenova/sitemap.xml
+Sitemap: https://seo.belstu.by/Zavadskaya/sitemap.xml
+Sitemap: https://seo.belstu.by/Kordeluk/sitemap.xml
+Sitemap: https://seo.belstu.by/Kutsak/sitemap.xml
+Sitemap: https://seo.belstu.by/Khorova/sitemap.xml
+Sitemap: https://seo.belstu.by/Talapina/sitemap.xml
+Sitemap: https://seo.belstu.by/Ramantsevich/sitemap.xml
+Sitemap: https://seo.belstu.by/prod.Fexy/sitemap.xml
+Sitemap: https://seo.belstu.by/Korotysh/sitemap.xml
+Sitemap: https://seo.belstu.by/Ivanova/sitemap.xml
+Sitemap: https://seo.belstu.by/S
+Sitemap: https://seo.belstu.by/
